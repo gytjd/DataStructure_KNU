@@ -1,0 +1,4 @@
+﻿  3.c
+C:\Users\00\source\repos\2020117898_황효성_DS_02\Project2\3.c(41,6): warning C4101: 'minpos' :참조되지 않은 지역 변수입니다.
+C:\Users\00\source\repos\2020117898_황효성_DS_02\Project2\3.c(39,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  Project2.vcxproj -> C:\Users\00\source\repos\2020117898_황효성_DS_02\Debug\Project2.exe
