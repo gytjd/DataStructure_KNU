@@ -1,0 +1,22 @@
+add 1 kim
+add 1 park
+add 1 Seong
+add 1 hong
+sprint 1
+add 2 Korea
+add 2 Nepal
+add 2 England
+add 2 France
+sprint 2
+add 3 apple
+add 0 apple
+add 0 grape
+add 0 peach
+add 0
+add 0 orange
+sprint3
+delete 0
+delete 1
+delete 2
+delete 2
+quit

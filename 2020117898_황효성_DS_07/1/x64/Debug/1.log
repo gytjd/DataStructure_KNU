@@ -1,0 +1,10 @@
+﻿  1.c
+C:\Users\gmsdw\source\repos\2020117898 황효성 DS 07\1\1.c(15,6): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\gmsdw\source\repos\2020117898 황효성 DS 07\1\1.c(51,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gmsdw\source\repos\2020117898 황효성 DS 07\1\1.c(50,11): warning C4101: 'open_ch' :참조되지 않은 지역 변수입니다.
+C:\Users\gmsdw\source\repos\2020117898 황효성 DS 07\1\1.c(115,16): warning C4473: 'fscanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\gmsdw\source\repos\2020117898 황효성 DS 07\1\1.c(115,16): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\gmsdw\source\repos\2020117898 황효성 DS 07\1\1.c(115,16): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\Users\gmsdw\source\repos\2020117898 황효성 DS 07\1\1.c(115,16): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\gmsdw\source\repos\2020117898 황효성 DS 07\1\1.c(98,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  1.vcxproj -> C:\Users\gmsdw\source\repos\2020117898 황효성 DS 07\x64\Debug\1.exe
