@@ -1,0 +1,20 @@
+push 1 jung
+push 23 Hong
+pop
+push 3 Kim
+sprint
+push 4 Song
+pop
+pop
+push 5 Lee
+push 6 Min
+push 7 Oh
+push 8 Seo
+sprint
+pop
+Kenedy mr.
+sprint
+pop
+push 9 Robert
+push 10 Jane
+push 11 Kenedy
