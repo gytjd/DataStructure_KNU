@@ -1,0 +1,4 @@
+﻿  3.c
+C:\Users\00\source\repos\2020117898_황효성_DS_03\3\3.c(51,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\00\source\repos\2020117898_황효성_DS_03\3\3.c(48,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  3.vcxproj -> C:\Users\00\source\repos\2020117898_황효성_DS_03\Debug\3.exe
