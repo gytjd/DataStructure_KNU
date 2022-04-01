@@ -1,0 +1,7 @@
+﻿  2.c
+C:\Users\00\source\repos\2020117898 황효성 DS_01(1)\2\2.c(19,5): warning C4047: '함수': 'size_t'의 간접 참조 수준이 'float *'과(와) 다릅니다.
+C:\Users\00\source\repos\2020117898 황효성 DS_01(1)\2\2.c(19,5): warning C4024: 'malloc': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\00\source\repos\2020117898 황효성 DS_01(1)\2\2.c(22,15): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\00\source\repos\2020117898 황효성 DS_01(1)\2\2.c(14,11): warning C4101: 'f' :참조되지 않은 지역 변수입니다.
+C:\Users\00\source\repos\2020117898 황효성 DS_01(1)\2\2.c(13,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  2.vcxproj -> C:\Users\00\source\repos\2020117898 황효성 DS_01(1)\Debug\2.exe
