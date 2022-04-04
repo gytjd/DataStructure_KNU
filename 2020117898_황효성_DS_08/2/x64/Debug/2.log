@@ -1,0 +1,9 @@
+﻿  2.c
+C:\Users\gmsdw\source\repos\2020117898_황효성_DS_08\2\2.c(58,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'listNode *'입니다.
+C:\Users\gmsdw\source\repos\2020117898_황효성_DS_08\2\2.c(58,10): warning C4313: 'printf': 서식 문자열의 '%d'이(가) listNode *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\gmsdw\source\repos\2020117898_황효성_DS_08\2\2.c(58,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'listNode *'입니다.
+C:\Users\gmsdw\source\repos\2020117898_황효성_DS_08\2\2.c(58,10): warning C4313: 'printf': 서식 문자열의 '%d'이(가) listNode *' 형식의 인수 3과(와) 충돌합니다.
+C:\Users\gmsdw\source\repos\2020117898_황효성_DS_08\2\2.c(148,8): warning C4101: 'context' :참조되지 않은 지역 변수입니다.
+C:\Users\gmsdw\source\repos\2020117898_황효성_DS_08\2\2.c(150,7): warning C4101: 'line' :참조되지 않은 지역 변수입니다.
+C:\Users\gmsdw\source\repos\2020117898_황효성_DS_08\2\2.c(152,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  2.vcxproj -> C:\Users\gmsdw\source\repos\2020117898_황효성_DS_08\x64\Debug\2.exe
