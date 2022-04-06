@@ -1,0 +1,13 @@
+﻿  3.c
+C:\Users\00\source\repos\2020117898_황효성_DS_09\3\3.c(34,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'listNode *'입니다.
+C:\Users\00\source\repos\2020117898_황효성_DS_09\3\3.c(34,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'listPointer'입니다.
+C:\Users\00\source\repos\2020117898_황효성_DS_09\3\3.c(38,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'listNode *'입니다.
+C:\Users\00\source\repos\2020117898_황효성_DS_09\3\3.c(38,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'listPointer'입니다.
+C:\Users\00\source\repos\2020117898_황효성_DS_09\3\3.c(59,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'listNode *'입니다.
+C:\Users\00\source\repos\2020117898_황효성_DS_09\3\3.c(59,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'listPointer'입니다.
+C:\Users\00\source\repos\2020117898_황효성_DS_09\3\3.c(63,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'listNode *'입니다.
+C:\Users\00\source\repos\2020117898_황효성_DS_09\3\3.c(63,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'listPointer'입니다.
+C:\Users\00\source\repos\2020117898_황효성_DS_09\3\3.c(180,8): warning C4101: 'context' :참조되지 않은 지역 변수입니다.
+C:\Users\00\source\repos\2020117898_황효성_DS_09\3\3.c(182,7): warning C4101: 'line' :참조되지 않은 지역 변수입니다.
+C:\Users\00\source\repos\2020117898_황효성_DS_09\3\3.c(185,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  3.vcxproj -> C:\Users\00\source\repos\2020117898_황효성_DS_09\Debug\3.exe
