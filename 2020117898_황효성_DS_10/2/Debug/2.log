@@ -1,0 +1,6 @@
+﻿  2.c
+C:\Users\00\source\repos\2020117898_황효성_DS_10\2\2.c(33,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'listNode *'입니다.
+C:\Users\00\source\repos\2020117898_황효성_DS_10\2\2.c(33,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'listPointer'입니다.
+C:\Users\00\source\repos\2020117898_황효성_DS_10\2\2.c(36,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'listNode *'입니다.
+C:\Users\00\source\repos\2020117898_황효성_DS_10\2\2.c(36,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'listPointer'입니다.
+  2.vcxproj -> C:\Users\00\source\repos\2020117898_황효성_DS_10\Debug\2.exe
