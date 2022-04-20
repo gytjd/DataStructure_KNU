@@ -1,0 +1,6 @@
+﻿  2.c
+C:\Users\00\source\repos\2020117898_황효성\2\2.c(92,3): warning C4033: 'pop_1'은(는) 값을 반환해야 합니다.
+C:\Users\00\source\repos\2020117898_황효성\2\2.c(124,3): warning C4033: 'pop_2'은(는) 값을 반환해야 합니다.
+C:\Users\00\source\repos\2020117898_황효성\2\2.c(98): warning C4715: 'pop_1': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\00\source\repos\2020117898_황효성\2\2.c(137): warning C4715: 'pop_2': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  2.vcxproj -> C:\Users\00\source\repos\2020117898_황효성\Debug\2.exe
