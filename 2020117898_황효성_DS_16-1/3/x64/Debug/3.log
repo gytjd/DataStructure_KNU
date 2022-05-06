@@ -1,0 +1,4 @@
+﻿  3.c
+C:\Users\gmsdw\source\repos\2020117898_황효성_DS_16\3\3.c(250,9): warning C4101: 'q' :참조되지 않은 지역 변수입니다.
+C:\Users\gmsdw\source\repos\2020117898_황효성_DS_16\3\3.c(250,12): warning C4101: 'w' :참조되지 않은 지역 변수입니다.
+  3.vcxproj -> C:\Users\gmsdw\source\repos\2020117898_황효성_DS_16\x64\Debug\3.exe
