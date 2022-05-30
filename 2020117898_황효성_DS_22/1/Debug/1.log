@@ -1,0 +1,4 @@
+﻿  1.c
+C:\Users\00\source\repos\2020117898_황효성_DS_22\1\1.c(173,6): warning C4101: 'sorted' :참조되지 않은 지역 변수입니다.
+C:\Users\00\source\repos\2020117898_황효성_DS_22\1\1.c(171,6): warning C4101: 'sor' :참조되지 않은 지역 변수입니다.
+  1.vcxproj -> C:\Users\00\source\repos\2020117898_황효성_DS_22\Debug\1.exe
